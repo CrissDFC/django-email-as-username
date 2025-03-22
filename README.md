@@ -118,12 +118,6 @@ user = authenticate(
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🙌 Contributing
 
 Feel free to submit issues, fork the repository and send pull requests. Contributions are always welcome!
